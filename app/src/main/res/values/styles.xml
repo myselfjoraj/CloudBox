@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="cornerRound" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">7%</item>
+        <item name="android:color">@color/transparent</item>
+    </style>
+
+</resources>

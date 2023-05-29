@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Trash"
+        android:id="@+id/l1"/>
+    <item android:title="Rename"
+        android:id="@+id/l2"/>
+    <item android:title="Download"
+        android:id="@+id/l4"/>
+    <item android:title="Make offline"
+        android:id="@+id/l5"/>
+    <item
+        android:id="@+id/l3"
+        android:title="Share via link" />
+    <item android:title="Add to favourites"
+        android:id="@+id/l6"/>
+    <item android:title="Delete permanently"
+        android:id="@+id/l7"/>
+</menu>

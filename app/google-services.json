@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757412481545",
+    "firebase_url": "https://cloudbox-f5657-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cloudbox-f5657",
+    "storage_bucket": "cloudbox-f5657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757412481545:android:dc1f44350b15f6315206d8",
+        "android_client_info": {
+          "package_name": "jr.project.cloudbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757412481545-55eemfpdhs6emsvc6l8su7fj0cq1u5s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jr.project.cloudbox",
+            "certificate_hash": "6504c41a1f8531e341ed6a7a1d3ff3e5655438c8"
+          }
+        },
+        {
+          "client_id": "757412481545-g454bfbqer0ev1avv6ek8b48427noicb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NEt2CmEgAWCxH1D5vh5eXwitcuX75nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757412481545-g454bfbqer0ev1avv6ek8b48427noicb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
